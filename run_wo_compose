@@ -1,2 +1,11 @@
 # run w/o compose file
 docker run -d -p 1688:1688 --restart=always --name vlmcsd mikolatero/vlmcsd
+#
+#
+#  https://github.com/Wind4/vlmcsd-docker/tree/4195d04f687973a514e3fb663bd87161afd46697
+#  
+#  https://bafista.ru/kak-aktivirovat-windows-v-rossii-bez-aktivatorov/
+#
+#  https://bafista.ru/aktivacziya-microsoft-windows-i-office/#%D0%94%D1%80%D1%83%D0%B3%D0%B8%D0%B5_KMS_%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80%D0%B0_%D0%B2_%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82%D0%B5
+#
+#
